@@ -1,0 +1,12 @@
+pipeline:
+  input_folder: data/input
+  garbage_records_folder: data/garbage_records
+  archive_folder: data/archive
+
+  invalid_file:  
+    garbage_file_prefix: Bad_Data
+    date_format: "%Y%m%d_%H%M" 
+
+  database:
+    postgres:
+      table_name: "public.employee_stg"

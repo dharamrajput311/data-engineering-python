@@ -1,0 +1,31 @@
+etl_project_using_oop/
+│
+├── .env
+├── main.py
+├── project_structure.txt
+├── requirements.txt
+│
+├── config/
+│     ├── config.yaml
+│
+├── data/
+│     ├── archive
+│     ├── garbage_records
+│     ├── input
+│  
+├── etl/
+│   ├── __init__.py
+│   ├── bad_csv_loader.py
+│   ├── base_extractor.py
+│   ├── base_transformer.py
+│   ├── base_loader.py
+│   ├── csv_extractor.py
+│   ├── extractor_factory.py
+│   ├── generic_transformer.py
+│   ├── json_extractor.py
+│   ├── pipeline.py
+│   └── postgres_loader.py
+│
+└── sql_scripts/
+    ├── employee_stg.sql
+
