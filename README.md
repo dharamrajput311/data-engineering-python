@@ -1,7 +1,7 @@
 # Data Engineering Projects (Python)
 
 This repository contains hands-on data engineering projects implemented
-using Python. The projects are designed to build strong fundamentals and
+using Python and modern data engineering tools. The projects are designed to build strong fundamentals and
 progress gradually from beginner to advanced-level data engineering concepts.
 
 ---
