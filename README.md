@@ -60,8 +60,8 @@ This is a personal learning repository, but suggestions and feedback are welcome
 ---
 
 ## Contact
-Dharamsingh Rajput
-Email: dharamrajput311@gmail.com
+Dharamsingh Rajput  
+Email: dharamrajput311@gmail.com  
 GitHub: https://github.com/dharamrajput311
 
 ---
